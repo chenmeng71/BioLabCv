@@ -1,6 +1,8 @@
 # BioLabCv
 Explore the use of Computer Vision in Biology lab work.
 
+![ecoliCrop.jpg](/ecoliCrop.jpg?raw=true "Cropped Segment from Lab Picture")
+
 * ecoliCrop.jpg: A cropped image of E. Coli colonies in a petri dish.
 * ecoliPartial.jpg: A smaller image sample.
 * colonyCount.py: Python program that counts the number of E. Coli colonies in the image.
