@@ -13,7 +13,7 @@ Crop a smaller segment to simplify.
 </div>
 <br/>
 
-Screenshot from running colonyCount.py:
+Screenshot from running colonyCount.py, where 372 colonies are counted from the cropped image.
 <div align="left">
     <img src="/ScreenshotColonyCount.png" width="800px"</img> 
 </div>
