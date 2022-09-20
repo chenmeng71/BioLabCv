@@ -13,9 +13,9 @@ Crop a smaller segment to simplify.
 </div>
 <br/>
 
-Screenshot from running colonyCount.py, where 372 colonies are counted from the cropped image.
+Screenshot from running colonyCount.py, where 372 colonies are counted from the cropped image. First display image shows the result of the processing where the contour of each colony is found and the total number of contours is counted. The second and third display images show the intermediate steps of finding the colonies in the input image, and the distance transformation where each pixel is replaced with the value of its distance to the nearest background pixel.
 <div align="left">
-    <img src="/ScreenshotColonyCount.png" width="800px"</img> 
+    <img src="/ScreenshotColonyCount.png" width="1000px"</img> 
 </div>
 <br/>
 
